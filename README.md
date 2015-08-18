@@ -36,6 +36,7 @@ Pass: snorby
 	* Mac OSX:
 	
 		`brew install imagemagick`
+		`brew install mysql`
 
 	* Linux:
 	
